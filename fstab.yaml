@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://git.northern.co/training/aem-boilerplate-commerce#
+    type: markup
+
+folders:
+  /products/: /products/default
